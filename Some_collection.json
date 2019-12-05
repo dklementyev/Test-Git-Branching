@@ -1,7 +1,3 @@
 {
-	"this": "some value",
-	"someAnotherField1": "someAnotherValue11224255",
-	"valueInt": 153,
-	"someNewField": "someNewValue5",
-	"makeSomeChanges": "no1"
+	"value": "fromNewBranch"
 }
