@@ -1,6 +1,6 @@
 {
 	"this": "some value",
-	"someAnotherField": "someAnotherValue1",
+	"someAnotherField1": "someAnotherValue1",
 	"valueInt": 153,
 	"someNewField": "someNewValue"
 }
