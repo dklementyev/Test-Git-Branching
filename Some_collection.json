@@ -1,7 +1,7 @@
 {
 	"this": "some value",
-	"someAnotherField1": "someAnotherValue112242",
+	"someAnotherField1": "someAnotherValue11224255",
 	"valueInt": 153,
-	"someNewField": "someNewValue",
-	"makeSomeChanges": "andAddNewFields"
+	"someNewField": "someNewValue5",
+	"makeSomeChanges": "yes"
 }
