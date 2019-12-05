@@ -3,6 +3,12 @@
 	"someAnotherField1": "someAnotherValue11224255",
 	"valueInt": 153,
 	"someNewField": "someNewValue5",
+<<<<<<< HEAD
 	"makeSomeChanges": "no",
 	"dffdgdfg"
+||||||| b0a410b
+	"makeSomeChanges": "no"
+=======
+	"makeSomeChanges": "no1"
+>>>>>>> newBranch
 }
